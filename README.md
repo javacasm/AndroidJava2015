@@ -8,6 +8,6 @@
 
 # [Índice](https://github.com/javacasm/AndroidJava2015/blob/master/temario/indice.md)
 
-# [Presentacions](https://github.com/javacasm/AndroidJava2015/tree/master/temario)
+# [Presentaciones](https://github.com/javacasm/AndroidJava2015/tree/master/temario)
 
 # [Ejemplos](https://github.com/javacasm/codigo-curso-android)
