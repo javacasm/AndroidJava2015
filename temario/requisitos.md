@@ -10,21 +10,21 @@
 
 # Mac OS X
 
-Mac® OS X® 10.8.5 or higher, up to 10.9 (Mavericks)
-2 GB RAM minimum, 4 GB RAM recommended
-400 MB hard disk space
-At least 1 GB for Android SDK, emulator system images, and caches
-1280 x 800 minimum screen resolution
-Java Runtime Environment (JRE) 6
-Java Development Kit (JDK) 7
-Optional for accelerated emulator: Intel® processor with support for Intel® VT-x, Intel® EM64T (Intel® 64), and Execute Disable (XD) Bit functionality
-On Mac OS, run Android Studio with Java Runtime Environment (JRE) 6 for optimized font rendering. You can then configure your project to use Java Development Kit (JDK) 6 or JDK 7.
+* Mac® OS X® 10.8.5 or higher, up to 10.9 (Mavericks)
+* 2 GB RAM mínimo, 4 GB RAM recomendedo
+* 400 MB de espacio en disco
+* Como poco 1 GB por cada Android SDK, emulador system images, y caches
+* 1280 x 800 de resolución mínimo
+* Java Runtime Environment (JRE) 6
+* Java Development Kit (JDK) 7
+* Para utilizar aceleración en el  emulador : Intel® processor debe permitir Intel® VT-x, Intel® EM64T (Intel® 64), y funcionalidad Execute Disable (XD) Bit
+* Ejecutar Android Studio con Java Runtime Environment (JRE) 6 para optimización de font rendering. 
 
 # Linux
 
-GNOME or KDE desktop
-GNU C Library (glibc) 2.15 or later
-2 GB RAM minimum, 4 GB RAM recommended
+* GNOME or KDE desktop
+* GNU C Library (glibc) 2.15 o posterior
+* 2 GB RAM mínimo, 4 GB RAM recomendedo
 400 MB hard disk space
 At least 1 GB for Android SDK, emulator system images, and caches
 1280 x 800 minimum screen resolution
