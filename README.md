@@ -6,6 +6,8 @@
 
 ![cc](https://raw.githubusercontent.com/javacasm/CodeWeek-programacion/master/images/Licencia_CC.png)
 
+[Contenidos en https://github.com/javacasm/AndroidJava2015](https://github.com/javacasm/AndroidJava2015)
+
 # [Índice](https://github.com/javacasm/AndroidJava2015/blob/master/temario/indice.md)
 
 # [Presentaciones](https://github.com/javacasm/AndroidJava2015/tree/master/temario)
