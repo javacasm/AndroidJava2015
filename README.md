@@ -1,9 +1,8 @@
-# 
-Curso de programación para Android Java 
+# Curso de programación para Android Java 
 
-Noviembre de 2015. CEP de Linares
+## Noviembre de 2015. CEP de Linares
 
-José Antonio Vacas @javacasm
+## José Antonio Vacas @javacasm
 
 ![cc](https://raw.githubusercontent.com/javacasm/CodeWeek-programacion/master/images/Licencia_CC.png)
 
