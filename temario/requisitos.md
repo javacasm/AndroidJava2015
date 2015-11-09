@@ -1,12 +1,12 @@
 # Windows
 
-Microsoft® Windows® 8/7/Vista (32 or 64-bit)
-2 GB RAM minimum, 4 GB RAM recommended
-400 MB hard disk space
-At least 1 GB for Android SDK, emulator system images, and caches
-1280 x 800 minimum screen resolution
-Java Development Kit (JDK) 7
-Optional for accelerated emulator: Intel® processor with support for Intel® VT-x, Intel® EM64T (Intel® 64), and Execute Disable (XD) Bit functionality
+* Microsoft® Windows® 8/7/Vista (32 or 64-bit)
+* 2 GB RAM mínimo, 4 GB RAM recomendado
+* 400 MB de espacio en disco
+* Como poco 1 GB por cada Android SDK, emulador system images, y caches
+* 1280 x 800 de resolución mínimo
+* Java Development Kit (JDK) 7
+* Para utilizar aceleración en el  emulador : Intel® processor debe permitir Intel® VT-x, Intel® EM64T (Intel® 64), y funcionalidad Execute Disable (XD) Bit
 
 # Mac OS X
 
