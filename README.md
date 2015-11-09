@@ -10,7 +10,7 @@
 
 # [Contenidos](https://github.com/javacasm/AndroidJava2015/blob/master/temario/contenidos.md)
 
-# [Índice](https://github.com/javacasm/AndroidJava2015/blob/master/temario/indice.md)
+# [Resumen](https://github.com/javacasm/AndroidJava2015/blob/master/temario/indice.md)
 
 # [Presentaciones](https://github.com/javacasm/AndroidJava2015/tree/master/temario)
 
