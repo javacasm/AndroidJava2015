@@ -19,3 +19,10 @@
 ### Android de 64 bits
 
 ### ¿Qué diferencia hay entre las imágenes de Android y Google?
+
+
+## Package name
+
+## Gradle
+
+### Gradle offline
