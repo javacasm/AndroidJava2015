@@ -37,15 +37,17 @@ A menudo los SDKs se actualizan (por errores de propio software o porque aparece
 
 ## Gestor de actualizaciones (SDK Manager)
 
-![gestorSDK](./imagenes/OpcionesSDK.png)
 
-Podemos acceder al SDK Manager desde el siguiente icono 
+
+Podemos acceder al SDK Manager desde el siguiente icono:
 
 ![icono](./imagenes/sdk-manager-studio.png)
 
-Cada SDK tiene muchos componentes, unos pocos necesarios y la mayoría opcionales.
+El SDK Manager se encarga de gestionar todos los paquetes que complementan a Android Studio. Por un lado están las herramientas (Tools), que no depende de la versión de Android usada y por otro están los SDks que son específicos para cada versión.
 
-De cada uno de ellos se requieren:
+De todos estos componentes, unos pocos necesarios y la mayoría opcionales.
+
+Veamos los que deberíamos instalar:
 
 * Android SDK Tools: son las herramientas generales del entorno.
 * Android SDK Platform Tools: la herramientas específicas para cada sistema operativo (por ejemplo el depurador)
@@ -56,3 +58,5 @@ De cada uno de ellos se requieren:
 Otros componentes recomendados:
 	* Ejemplos (samples)
 	* Documentación
+
+![gestorSDK](./imagenes/OpcionesSDK.png)
