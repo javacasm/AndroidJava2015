@@ -28,7 +28,7 @@ Existe un SDK por cada una de las versiones de Android.
 
 ## Gestor de actualizaciones
 
-![gestorSDK](./images/OpcionesSDK.png)
+![gestorSDK](./imagenes/OpcionesSDK.png)
 
 Se requieren:
 * Al menos una de las building Tools (mejor la última)
