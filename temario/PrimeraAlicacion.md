@@ -54,4 +54,19 @@ Por defecto se crearán 2 ficheros:
 * Un fichero Java, donde escribiremos nuestro código
 * Un fichero de recursos de tipo Layout con formato xml. Un layout es la definición del interface de usuario de una pantala
 
-Estos dos ficheros están conectados en el proyecto. En concreto el fichero java es el que realiza esa conexión.
+Estos dos ficheros están conectados en el proyecto. En concreto el fichero java es el que realiza esa conexión. En concreto en la línea 
+
+	setContentView(R.layout.activity_main)
+
+6. Con todo esto ya tenemos la aplicación definida, y se generarán todos sus contenidos:
+
+* El código
+* Los ficheros XML
+* Los ficheros de configuración
+* Los recursos
+
+![1stAppBuilding](./imagenes/1stAppBuilding.png)
+
+Cuando tengamos todo el proyecto se construirá todo el proyecto, compilando el código, empaquetanto los recursos y generando e fichero APK de la aplicación
+
+![1stAppBuilding2](./imagenes/1stAppBuilding2.png)
