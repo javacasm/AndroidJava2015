@@ -19,6 +19,8 @@ Dependiendo de la versión del sistema operativo instalado instalaremos el JDK d
 
 ## Instalación de Android Studio
 
+La instalación de Android Studio es bastante sencilla, basta con ejecutarla y el paquete irá revisando si nos falta algún compomente (de no tener instalado el JDK, en este momento nos lo pediría)
+
 ## SDK de Android
 
 El SDK de Android es el conjunto de librerías, documentación (también ejemplos), código e imágenes de emuladores necesario para poder desarrollar aplicaciones específicas para una versión dada.
