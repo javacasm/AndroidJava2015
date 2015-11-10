@@ -29,11 +29,19 @@ Una vez lanzada la instalación, esta terminará revisando si existen actualizac
 
 El SDK de Android es el conjunto de librerías, documentación (también ejemplos), código e imágenes de emuladores necesario para poder desarrollar aplicaciones específicas para una versión dada.
 
-Existe un SDK por cada una de las versiones de Android.
+Existe un SDK por cada una de las versiones de Android. No es necesario tener todos los SDKs instalado, pero para probar a fondo las aplicaciones sí es conveniente tener al menos los más usados.
 
-## Gestor de actualizaciones
+Cada SDK ocupa algo más de 1Gb de espacio en disco, con lo que la descarga y la posterior instalación puede ser larga.
+
+A menudo los SDKs se actualizan (por errores de propio software o porque aparecer actualizados para los terminales) con lo que se hace necesaria una herramienta para gestionar estos cambios y esta es el Gestor de SDKs 
+
+## Gestor de actualizaciones (SDK Manager)
 
 ![gestorSDK](./imagenes/OpcionesSDK.png)
+
+Podemos acceder al SDK Manager desde el siguiente icono 
+
+![icono](./imagenes/sdk-manager-studio.png)
 
 Se requieren:
 
