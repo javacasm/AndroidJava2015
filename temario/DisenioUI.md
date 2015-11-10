@@ -30,4 +30,13 @@ Está constituido por filas que contienen otros elementos. Dentro de ellas los c
 
 # Estilos
 
-Dado que son muchos los botones que vamos a utilizar y casi todos tienen un aspecto muy similar
+Dado que son muchos los botones que vamos a utilizar y casi todos tienen un aspecto muy similar, definiremos un estilo que aplicaremos a todos. De esta manera cualquier cambio que queramos hacer se aplicará a todos.
+
+Como extraer un estilo
+Herencia en los estilos
+
+Vamos a comenzar dando el aspecto que queramos al botón
+
+Las propiedades siempre se nombra con la parte del control al que se aplican y luego con la propiedad: TextSize TextColor
+
+TextSize
