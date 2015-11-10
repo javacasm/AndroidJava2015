@@ -68,3 +68,5 @@ Otros componentes recomendados:
 	* Documentación
 
 ![gestorSDK](./imagenes/OpcionesSDK.png)
+
+En esta captura podemos ver como la herramienta nos propone actualizar 3 elementos.
