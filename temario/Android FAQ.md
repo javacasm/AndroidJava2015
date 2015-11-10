@@ -26,3 +26,11 @@
 ## Gradle
 
 ### Gradle offline
+
+## Entorno
+
+### ¿Cómo cambiar el aspecto del entorno?
+
+* Cambiar aspecto de los editores de texto
+
+![CambiarFonts](./imagenes/CambiarFontSize.png)
