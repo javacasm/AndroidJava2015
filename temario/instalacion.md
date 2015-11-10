@@ -43,12 +43,14 @@ Podemos acceder al SDK Manager desde el siguiente icono
 
 ![icono](./imagenes/sdk-manager-studio.png)
 
-Se requieren:
+Cada SDK tiene muchos componentes, unos pocos necesarios y la mayoría opcionales.
+
+De cada uno de ellos se requieren:
 
 * Android SDK Tools: son las herramientas generales del entorno.
 * Android SDK Platform Tools: la herramientas específicas para cada sistema operativo (por ejemplo el depurador)
 * Al menos una de las building Tools (mejor la última). Son las encargadas de construir la aplicación.
-* Al menos necesitamos una de las [versiones](./Android FAQ.md#versiones) con los sigueintes componentes obligatorios:
+* Al menos necesitamos una de las [versiones](./Android FAQ.md#versiones) con los siguientes componentes obligatorios:
 	* SDK Platform
 	* Una imagen de emulador
 Otros componentes recomendados:
