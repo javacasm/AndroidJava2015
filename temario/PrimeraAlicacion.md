@@ -67,6 +67,8 @@ Estos dos ficheros están conectados en el proyecto. En concreto el fichero java
 
 ![1stAppBuilding](./imagenes/1stAppBuilding.png)
 
-Cuando tengamos todo el proyecto se construirá todo el proyecto, compilando el código, empaquetanto los recursos y generando e fichero APK de la aplicación
+Cuando tengamos todo el proyecto se construirá todo el proyecto, compilando el código, empaquetanto los recursos y generando e fichero APK de la aplicación.
 
 ![1stAppBuilding2](./imagenes/1stAppBuilding2.png)
+
+El encargado de hacer todo esto es Gradle, que se dedicará a mantener actualizado nuestro proyecto como un proceso de segundo plano.
