@@ -6,3 +6,7 @@ Siguiendo el asistente vamos a ir viendo algunos de los pricipales componentes d
 * Activity=pantalla. En el pasado pantalla=funcionalidad.
 	* Nos conecta el diseño xml con el código java
 	* El asistente tiene varios tipos diferentes (introducción a los distintos tipos de interfaces)
+
+1. Pulsamos la opción de crear una nueva aplicación
+
+![1stAppNewApp](./imagenes/1stAppNewApp.png)
