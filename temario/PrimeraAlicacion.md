@@ -45,9 +45,9 @@ Algo que puede llamar nuestra atención es que podemos elegir no crear ningun Ac
 
 Un ejemplo de este tipo de aplicaciones pueden ser las que nos permiten sincronizar nuestros datos con servicios web o las que nos avisan de que hay cambios como por ejemplo pueden ser las aplicaciones de las redes sociales que nos avisan de la actividad de otros miembros de la red.
 
+5. Una vez elegido el tipo hemos de darle nombre: 
 
-
-
+![1stAppActivityName](./imagenes/1stAppActivityName.png)
 
 
 
