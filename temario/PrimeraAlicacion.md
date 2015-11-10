@@ -17,3 +17,5 @@ Siguiendo el asistente vamos a ir viendo algunos de los pricipales componentes d
 
 Cada plataforma tendrá una aplicación distinta, aunque comparten código y recursos
 
+En este momento vamos a seleccionar sólo a opción de hacer crear una aplicación para móviles y tablets.
+
