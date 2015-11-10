@@ -41,6 +41,15 @@ Para empezar vamos a elegir la más simple que la de nombre Empty (la plantilla 
 
 Este asistente para crear Activities lo podremos llamar en cualquier momento para poder añadir más pantallas a nuestra aplicación.
 
+Algo que puede llamar nuestra atención es que podemos elegir no crear ningun Activity: efectivamente una aplicación puede funcionar sin tener ninguna pantalla. Se trata de aplicaciones que funcionan en segundo plano, sin la interacción del usuario.
+
+
+
+
+
+
+
+
 
 
 	* Nos conecta el diseño xml con el código java
