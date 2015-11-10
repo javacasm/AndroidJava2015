@@ -15,8 +15,9 @@ Puedes ver la versión que tienes instalada con
 
 	javac -version
 
-Dependiendo de la versión del sistema operativo instalado instalaremos el JDK de 32 o 64 bits 
+Dependiendo de la versión del sistema operativo instalado instalaremos el JDK de 32 o 64 bits.
 
+## Instalación de Android Studio
 
 ## SDK de Android
 
@@ -24,18 +25,18 @@ El SDK de Android es el conjunto de librerías, documentación (también ejemplo
 
 Existe un SDK por cada una de las versiones de Android.
 
-
-
 ## Gestor de actualizaciones
 
 ![gestorSDK](./imagenes/OpcionesSDK.png)
 
 Se requieren:
-* Al menos una de las building Tools (mejor la última)
-* Platform tools
+
+* Android SDK Tools: son las herramientas generales del entorno.
+* Android SDK Platform Tools: la herramientas específicas para cada sistema operativo (por ejemplo el depurador)
+* Al menos una de las building Tools (mejor la última). Son las encargadas de construir la aplicación.
 * Al menos necesitamos una de las [versiones](./Android FAQ.md#versiones) con los sigueintes componentes obligatorios:
 	* SDK Platform
 	* Una imagen de emulador
-Componentes recomendados:
+Otros componentes recomendados:
 	* Ejemplos (samples)
 	* Documentación
