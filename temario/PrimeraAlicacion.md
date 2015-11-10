@@ -2,7 +2,6 @@
 
 Siguiendo el asistente vamos a ir viendo algunos de los pricipales componentes de Android
 
-* package es una forma de path una manera de identificar de manera única a una aplicación dada
 * Activity=pantalla. En el pasado pantalla=funcionalidad.
 	* Nos conecta el diseño xml con el código java
 	* El asistente tiene varios tipos diferentes (introducción a los distintos tipos de interfaces)
@@ -26,3 +25,8 @@ Es importante elegir bien este identificar puesto que es el que se ha de mantene
 ![1stAppAppName](./imagenes/1stAppAppName.png)
 
 Normalmente el ** Package Name ** se crea a partir de la url de nuestra web, aunque podemos poner cualquier que se no ocurra.
+
+Podemos pensar que el ** Package Name ** es una especie de path que permite identificar de manera única a una aplicación dada entre todas las existentes.
+
+
+4. Ahora vamos a elegir el tipo de pantalla que va a tener nuestra aplicacion entre las plantillas que nos enseñan
