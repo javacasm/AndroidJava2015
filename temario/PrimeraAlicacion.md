@@ -24,3 +24,5 @@ En este momento vamos a seleccionar sólo a opción de hacer crear una aplicaci�
 Es importante elegir bien este identificar puesto que es el que se ha de mantener a lo largo de toda la vida de la aplicación. El  ** Application Name ** puede modificarse pero el ** Package Name ** no.
 
 ![1stAppAppName](./imagenes/1stAppAppName.png)
+
+Normalmente el ** Package Name ** se crea a partir de la url de nuestra web, aunque podemos poner cualquier que se no ocurra.
