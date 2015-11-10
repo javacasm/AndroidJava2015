@@ -33,7 +33,15 @@ En Android las pantallas se llaman ** Activity **. Podemos pensar en ellas como 
 
 Vemos que existen distintos plantillas: 
 
-* Algunas tienen ya un diseño y están pensadas para hacer algún tipo de tarea concreta, como la de login por ejemplo 
+* Algunas tienen ya un diseño y están pensadas para hacer algún tipo de tarea concreta, como la de login, o la de acceso a la configuración de la apicación, por ejemplo.
+
+* Otras ya implementan un tipo de navegación: por medio de un menú lateral o al deslizar el elemento a la derecha o a la izquierda como en la aplicacion Galería de fotos
+
+Para empezar vamos a elegir la más simple que la de nombre Empty (la plantilla Blank, que aparece por defecto es sencilla pero tiene algo más de complejidad). Usaremos este tipo sencillo para que la restante funcionalidad no nos produzca más complejidad en nuestro primer proyecto.
+
+Este asistente para crear Activities lo podremos llamar en cualquier momento para poder añadir más pantallas a nuestra aplicación.
+
+
 
 	* Nos conecta el diseño xml con el código java
 	* El asistente tiene varios tipos diferentes (introducción a los distintos tipos de interfaces)
