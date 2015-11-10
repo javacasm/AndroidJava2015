@@ -25,4 +25,9 @@ Una Layout es una forma de disponer los controles. Existe diferentes tipos:
 * TableLayout
 
 ## TableLayout
+
 Está constituido por filas que contienen otros elementos. Dentro de ellas los controles se colocan unos a continuación de los otros
+
+# Estilos
+
+Dado que son muchos los botones que vamos a utilizar y casi todos tienen un aspecto muy similar
