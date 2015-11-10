@@ -19,3 +19,8 @@ Cada plataforma tendrá una aplicación distinta, aunque comparten código y rec
 
 En este momento vamos a seleccionar sólo a opción de hacer crear una aplicación para móviles y tablets.
 
+3. Vamos a dar nombre a la aplicación para lo que tendremos que dar un título que será el que vea el usuario que luego la instale, ** Application Name ** y un ** Package Name ** que es el identificador único de la aplicación que la identifica entre los millones de aplicaciones que existen.
+
+Es importante elegir bien este identificar puesto que es el que se ha de mantener a lo largo de toda la vida de la aplicación. El  ** Application Name ** puede modificarse pero el ** Package Name ** no.
+
+![1stAppAppName](./imagenes/1stAppAppName.png)
