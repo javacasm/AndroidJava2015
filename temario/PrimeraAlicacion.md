@@ -51,10 +51,8 @@ Un ejemplo de este tipo de aplicaciones pueden ser las que nos permiten sincroni
 
 Por defecto se crearán 2 ficheros: 
 
-* Un fichero Java
+* Un fichero Java, donde pondremos el código
 * Fichero de recursos de tipo Layout con formato xml. Un layout es la definición del interface de usuario de una pantala
 
 
-
-
-	* Nos conecta el diseño xml con el código java
+Estos dos ficheros están conectados en el proyecto
