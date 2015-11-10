@@ -25,6 +25,8 @@ La instalación de Android Studio es bastante sencilla, basta con ejecutarla y e
 
 Una vez lanzada la instalación, esta terminará revisando si existen actualizaciones y descargando al menos una versión del SDK de Android.
 
+Hay que tener en cuenta que Android Studio es una herramienta en constante desarrollo, lo que obliga a actualizarla prácticamente todas las semanas. Integra un gestor de actualizaciones que en caso de detectar una versión nos avisa
+
 ## SDK de Android
 
 El SDK de Android es el conjunto de librerías, documentación (también ejemplos), código e imágenes de emuladores necesario para poder desarrollar aplicaciones específicas para una versión dada.
@@ -37,11 +39,17 @@ A menudo los SDKs se actualizan (por errores de propio software o porque aparece
 
 ## Gestor de actualizaciones (SDK Manager)
 
-
-
 Podemos acceder al SDK Manager desde el siguiente icono:
 
 ![icono](./imagenes/sdk-manager-studio.png)
+
+Esta herramienta podemos utilizarla en un modo simplificado
+
+![simpli](./imagenes/updateBasico.png)
+
+o en el modo avanzado donde vemos todos los detalles de cada versión
+
+![avanzado](./imagenes/updateAvanzado.png)
 
 El SDK Manager se encarga de gestionar todos los paquetes que complementan a Android Studio. Por un lado están las herramientas (Tools), que no depende de la versión de Android usada y por otro están los SDks que son específicos para cada versión.
 
