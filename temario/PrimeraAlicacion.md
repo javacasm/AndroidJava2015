@@ -2,9 +2,6 @@
 
 Siguiendo el asistente vamos a ir viendo algunos de los pricipales componentes de Android
 
-* Activity=pantalla. En el pasado pantalla=funcionalidad.
-	* Nos conecta el diseño xml con el código java
-	* El asistente tiene varios tipos diferentes (introducción a los distintos tipos de interfaces)
 
 1. Pulsamos la opción de crear una nueva aplicación
 
@@ -28,5 +25,15 @@ Normalmente el ** Package Name ** se crea a partir de la url de nuestra web, aun
 
 Podemos pensar que el ** Package Name ** es una especie de path que permite identificar de manera única a una aplicación dada entre todas las existentes.
 
-
 4. Ahora vamos a elegir el tipo de pantalla que va a tener nuestra aplicacion entre las plantillas que nos enseñan
+
+En Android las pantallas se llaman ** Activity **. Podemos pensar en ellas como una pantalla (en el pasado donde las pantallas de los móviles eran pequeñas, pantalla equivalía a funcionalidad, la actividad que podía hacer el usuario).
+
+![1stAppActivityTemplate.png](./imagenes/1stAppActivityTemplate.png)
+
+Vemos que existen distintos plantillas: 
+
+* Algunas tienen ya un diseño y están pensadas para hacer algún tipo de tarea concreta, como la de login por ejemplo 
+
+	* Nos conecta el diseño xml con el código java
+	* El asistente tiene varios tipos diferentes (introducción a los distintos tipos de interfaces)
