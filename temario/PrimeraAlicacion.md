@@ -10,3 +10,10 @@ Siguiendo el asistente vamos a ir viendo algunos de los pricipales componentes d
 1. Pulsamos la opción de crear una nueva aplicación
 
 ![1stAppNewApp](./imagenes/1stAppNewApp.png)
+
+2. Seleccionamos la arquitectura a la que irá destinada nuestra aplicación, que pueden ser móviles, tablets, TVs, relojes, ...
+
+![1stAppPlatforms](./imagenes/1stAppPlatforms.png)
+
+Cada plataforma tendrá una aplicación distinta, aunque comparten código y recursos
+
