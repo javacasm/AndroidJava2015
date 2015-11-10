@@ -49,10 +49,12 @@ Un ejemplo de este tipo de aplicaciones pueden ser las que nos permiten sincroni
 
 ![1stAppActivityName](./imagenes/1stAppActivityName.png)
 
+Por defecto se crearán 2 ficheros: 
 
+* Un fichero Java
+* Fichero de recursos de tipo Layout con formato xml. Un layout es la definición del interface de usuario de una pantala
 
 
 
 
 	* Nos conecta el diseño xml con el código java
-	* El asistente tiene varios tipos diferentes (introducción a los distintos tipos de interfaces)
