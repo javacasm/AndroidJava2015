@@ -37,6 +37,27 @@ Herencia en los estilos
 
 Vamos a comenzar dando el aspecto que queramos al botón
 
-Las propiedades siempre se nombra con la parte del control al que se aplican y luego con la propiedad: TextSize TextColor
+Las propiedades siempre se nombra con la parte del control al que se aplican y luego con la propiedad: 
 
-TextSize
+
+TextSize 
+TextColor
+Background (comentar el uso de imágenes para hacer botonoes de distintas formas)
+TextAlignment
+Margenes
+¿Border?
+
+
+Extraemos el estilo
+
+
+Creamos tablelayout y lo colocamos (margen)
+
+Añadimos tablerow y le añadimo en botón
+Explicar que mejor añadir al Arbol de controles
+
+Copiamos y pegamos otros 3 botones
+
+Usamos weight para que se repartan el espacio
+
+Revisamos el xml del layout para evitar propiedades innecesarias
