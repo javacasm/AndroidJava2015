@@ -48,16 +48,18 @@ Margenes
 ¿Border?
 
 
-Extraemos el estilo
+* Extraemos el estilo
+
+* Creamos tablelayout y lo colocamos (con márgenes)
+
+* Añadimos un tablerow y le añadimos el botón
+
+* Explicar que mejor añadir al Arbol de controles
+
+* Copiamos y pegamos otros 3 botones
+
+* Usamos weight para que se repartan el espacio
+
+* Revisamos el xml del layout para evitar propiedades innecesarias
 
 
-Creamos tablelayout y lo colocamos (margen)
-
-Añadimos tablerow y le añadimo en botón
-Explicar que mejor añadir al Arbol de controles
-
-Copiamos y pegamos otros 3 botones
-
-Usamos weight para que se repartan el espacio
-
-Revisamos el xml del layout para evitar propiedades innecesarias
