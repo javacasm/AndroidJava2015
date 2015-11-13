@@ -6,3 +6,5 @@
 	Gradle
 	SDK Manager
 	AVD Manager
+
+* APK
