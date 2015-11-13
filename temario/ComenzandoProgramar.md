@@ -23,3 +23,16 @@ Eventos
 
 Acceso a los controles
 	(Casting)
+	Comentarios
+	Ejemplo persona en la calle, entra al CEP, entra a la oficina. Le pido cosas(funciones) disintas
+
+
+Activación depuración
+
+Info tablet
+nº compilación
+
+
+
+Excepciones, globales, casting
+floats
