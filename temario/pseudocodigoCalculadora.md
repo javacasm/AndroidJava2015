@@ -1,7 +1,7 @@
-introducimos operando1 -> teclanumerica
-	esperamos teclas numericas
-	añadimos a las cifras anteriores
-introduce operador -> teclaOperador 
+1. introducimos operando1 -> teclanumerica
+1.1	esperamos teclas numericas
+1.2	añadimos a las cifras anteriores
+2. introduce operador -> teclaOperador 
 	guardar operando1 fOperando1=convertir(visor)
 	guardar operador  iOperador=R.id.boton
 	borramos pantalla  -> teclaC
