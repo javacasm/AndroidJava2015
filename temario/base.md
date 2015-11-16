@@ -9,4 +9,8 @@
 
 [5. Comenzando a programar](./ComenzandoProgramar.md)
 
+[6. Calculadora](./pseudocodigoCalculadora.md)
+
+[7. Juego de memoria](./pseudocodigoMemory.md)
+
 [Apéndice: Android FAQ](./AndroidFAQ.md)
