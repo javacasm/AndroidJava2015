@@ -114,3 +114,37 @@ donde podemos ver que los controles están organizados según el siguiente árbo
 ![uitree](./imagenes/UITree.png)
 
 Destacar que hemos usado una manera de nombrar sistemática a los ImageViews para que sea sencillo localizarlos (usando dos números: uno para indicar la fila y otro la columna)
+
+* Veamos las propiedades que definen este formato
+
+	<TextView
+        android:text="@string/txtInicial"
+        android:id="@+id/tvAnuncio"
+        android:textSize="40dp"
+        android:textAlignment="center" />
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/tableLayout">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/iv11"
+                style="@style/imagen"
+                 />
+
+            <ImageView
+                style="@style/imagen"
+                android:id="@+id/iv12" />
+
+            <ImageView
+                style="@style/imagen"
+                android:id="@+id/iv13" />
+        </TableRow>
+        ...
