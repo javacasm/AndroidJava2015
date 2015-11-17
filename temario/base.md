@@ -13,4 +13,8 @@
 
 [7. Juego de memoria](./pseudocodigoMemory.md)
 
+[8. Programación 2](./programacion2.md)
+
+[9. Sonido](./sonido.md)
+
 [Apéndice: Android FAQ](./AndroidFAQ.md)
