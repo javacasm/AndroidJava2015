@@ -107,3 +107,10 @@ Parece más fácil usar un Tablelayout para las casillas
 
 * Ahora generamos un style (en el que podemos incluir la propiedad Src) y ya podemos crear los restantes botones que incluiremos en nuestro layout
 
+![uilayout](./imagenes/UIlayout.png)
+
+donde podemos ver que los controles están organizados según el siguiente árbol
+
+![uitree](./imagenes/UITree.png)
+
+Destacar que hemos usado una manera de nombrar sistemática a los ImageViews para que sea sencillo localizarlos (usando dos números: uno para indicar la fila y otro la columna)
