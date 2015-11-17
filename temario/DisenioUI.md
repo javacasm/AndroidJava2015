@@ -85,3 +85,18 @@ Parece más fácil usar un Tablelayout para las casillas
 
 * Utilizaremos sonidos para reforzar la interacción	
 
+## Construcción:
+
+* Añadiremos un control de tipo ImageView (podríamos usar ImageButton, pero tendríamos peor aspecto por usar borde)
+
+* Añadimos la imágenes a la carpeta drawable (podemos hacerlo con copiar/pegar o arrastrando)
+![imagenArrastrar]
+
+
+Usaremos la propiedad src para asignarle una imagen
+Veremos que se adapta al tamaño de esta, pero que es superior al que queremos.
+Marcamos un ancho y alto, pero por defecto no se pone a ese tamaño sino que tenemos que activar la propiedad
+
+	AjustViewBounds=true
+
+Ahora generamos un style y ya podemos crear los restantes botones que incluiremos en nuestro layout
