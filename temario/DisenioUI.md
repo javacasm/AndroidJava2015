@@ -90,13 +90,19 @@ Parece más fácil usar un Tablelayout para las casillas
 * Añadiremos un control de tipo ImageView (podríamos usar ImageButton, pero tendríamos peor aspecto por usar borde)
 
 * Añadimos la imágenes a la carpeta drawable (podemos hacerlo con copiar/pegar o arrastrando)
-![imagenArrastrar]
+![imagenArrastrar](./imagenes/AddDrawables.png)
 
+	Usaremos la propiedad src para asignarle una imagen
+	Veremos que se adapta al tamaño de esta, pero que es superior al que queremos.
 
-Usaremos la propiedad src para asignarle una imagen
-Veremos que se adapta al tamaño de esta, pero que es superior al que queremos.
-Marcamos un ancho y alto, pero por defecto no se pone a ese tamaño sino que tenemos que activar la propiedad
+	Hay varias formas de establecer el tamaño:
 
-	AjustViewBounds=true
+	1. Marcamos un ancho y alto, pero por defecto no se pone a ese tamaño sino que tenemos que activar la propiedad
 
-Ahora generamos un style y ya podemos crear los restantes botones que incluiremos en nuestro layout
+		AjustViewBounds=true
+		maxHeight=100dp
+		maxWidth=100dp
+
+	2. Establecemos el layout_Width y el layout_Height a 100dp
+
+* Ahora generamos un style (en el que podemos incluir la propiedad Src) y ya podemos crear los restantes botones que incluiremos en nuestro layout
