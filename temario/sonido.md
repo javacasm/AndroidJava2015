@@ -31,3 +31,15 @@ En concreto podemos ver que a partir del API 21 se ha cambiado la forma de crear
     else{
         sp = new SoundPool(5, AudioManager.STREAM_MUSIC, 0);
     }
+
+Una vez creado el objeto sólo tenemos que cargar los sonidos con load, lo que nos devolverá un id para cada sonido
+
+    idAplauso= sp.load(this,R.raw.applause,0);
+    idMal=sp.load(this,R.raw.evil,0);
+    idAcierto=sp.load(this,R.raw.sonido_acierto,0);
+
+Para reproducirlo sólo haremos play
+
+    sp.play(idAcierto,1,1,1,0,1);
+
+con los argumentos: play(idSonido,volumenIzda,volumenDrcha,repeticion,prioridad,velocidad)
