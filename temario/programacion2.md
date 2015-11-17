@@ -70,5 +70,21 @@ Ahora vamos a ir declarando las variables necesarias para realizar las tareas qu
 
     boolean bEsLaPrimera=true; // Para saber si es la primera o 2ª carta
     int idBotonPrimeroPulsado=0;
-    int idImagenPrimerBotonPulsado=0;
     int idBotonSegundoPulsado=0;
+    int idImagenPrimerBotonPulsado=0;
+    
+## Código
+
+Ahora vamos a completar el código. La mayor parte tiene una traducción directa. Sólo vamos a comenta el método que busca un control en toda la lista disponible
+
+    int iNumeroBotonPulsado=0;
+    for(int i=0;i<12;i=i+1)
+    {
+        if(v.getId()==idBoton[i])
+        {
+            iNumeroBotonPulsado=i;
+            break;
+        }
+    }
+
+donde vemos que iteramos por medio de un bucle a lo largo de todos los ids hasta encontrar la del control pulsado. En ese caso guardamos la posición en a variable iNumeroBotonPulsado
