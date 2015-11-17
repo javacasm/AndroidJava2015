@@ -63,3 +63,25 @@ Margenes
 * Revisamos el xml del layout para evitar propiedades innecesarias
 
 
+# Diseño de aplicación de juego Memory
+
+Pantalla inicial
+
+![inicio](./imagenes/JuegoMemoryInicio.png)
+
+Pantalla del juego
+
+![juego](./imagenes/JuegoMemory.png)
+
+Parece más fácil usar un Tablelayout para las casillas
+
+* Jugaremos con la visibilidad de algunos elementos
+
+	 btStop.setVisibility(View.VISIBLE);
+
+* Usaremos el acceso a recursos como imagen
+
+	ivCartaSegunda.setImageResource(R.drawable.Interrogacion);
+
+* Utilizaremos sonidos para reforzar la interacción	
+
