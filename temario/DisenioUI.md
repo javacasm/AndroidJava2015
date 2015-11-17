@@ -117,34 +117,11 @@ Destacar que hemos usado una manera de nombrar sistemática a los ImageViews par
 
 * Veamos las propiedades que definen este formato
 
-	<TextView
-        android:text="@string/txtInicial"
-        android:id="@+id/tvAnuncio"
-        android:textSize="40dp"
-        android:textAlignment="center" />
+android:layout_centerVertical="true"
+android:layout_centerHorizontal="true"
 
-    <TableLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true"
-        android:id="@+id/tableLayout">
+Para centrar los componentes y dejando en los controles ImageView sólo estas propiedades:
 
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-            <ImageView
-                android:id="@+id/iv11"
-                style="@style/imagen"
-                 />
-
-            <ImageView
-                style="@style/imagen"
-                android:id="@+id/iv12" />
-
-            <ImageView
-                style="@style/imagen"
-                android:id="@+id/iv13" />
-        </TableRow>
-        ...
+    <ImageView
+        android:id="@+id/iv11"
+        style="@style/imagen"  />
