@@ -106,3 +106,4 @@ Parece más fácil usar un Tablelayout para las casillas
 	2. Establecemos el layout_Width y el layout_Height a 100dp
 
 * Ahora generamos un style (en el que podemos incluir la propiedad Src) y ya podemos crear los restantes botones que incluiremos en nuestro layout
+
