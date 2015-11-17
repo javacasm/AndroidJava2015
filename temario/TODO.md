@@ -10,3 +10,5 @@
 * APK
 
 ¿Build apk?
+
+Problemas al ejecutar en movil
