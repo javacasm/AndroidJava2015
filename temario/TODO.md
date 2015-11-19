@@ -11,4 +11,7 @@
 
 ¿Build apk?
 
-Problemas al ejecutar en movil
+Problemas al ejecutar en movil (permiso de depuración, COMENTARLO!!!!)
+
+suffle list
+http://www.vogella.com/tutorials/JavaAlgorithmsShuffle/article.html
