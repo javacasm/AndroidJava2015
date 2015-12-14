@@ -1,4 +1,4 @@
-# Curso de programación para Android Java 
+# Curso de programación para Android Java
 
 ## Noviembre de 2015. CEP de Linares
 
@@ -15,4 +15,4 @@ javacasm@gmail.com
 
 # [Presentaciones](https://github.com/javacasm/AndroidJava2015/tree/master/temario)
 
-# [Ejemplos](https://github.com/javacasm/codigo-curso-android)
+# [Ejemplos](https://github.com/javacasm/AndroidJava2015/blob/master/temario/ejemplos.md)
